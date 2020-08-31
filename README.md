@@ -6,7 +6,8 @@ As soon as the site opens, a page is displayed containing a text, it’s about h
 With this website, we tried to learn how to use css and javascript making it better.
 
 ## Development:
-If you want to have a look at the website without cleaning it you can try this [Link](https://meriambs.github.io/BetterMotherFuckingWebsite/).
+
+if you don't want to download the webpage, you only have to click on this [Link](https://meriambs.github.io/BetterMotherFuckingWebsite/).
 
 If you are more interested in knowing the code and maybe add new things you can clone it using those steps:
 
